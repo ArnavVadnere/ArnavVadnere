@@ -100,6 +100,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ArnavVadnere/ArnavVadnere/output/snake.svg" alt="Snake animation" />
-
 ###
