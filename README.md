@@ -6,6 +6,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArnavVadnere&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arnavvadnere&theme=default&utcOffset=8" width=47.9%>
+</a href="https://github.com/anuraghazra/github-readme-stats">
+
 ###
 
 <div align="left">
